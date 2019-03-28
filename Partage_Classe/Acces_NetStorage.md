@@ -6,7 +6,7 @@
 ### 2. Cliquez sur le menu _Ordinateur_ et ensuite sur le bouton _Connecter un lecteur réseau_.
 ![](https://github.com/sbeau/AEC-IA/blob/master/Partage_Classe/images/fenetre_ConnecterUnLecteurReseau.png)
 
-### 3. Une fenêtre s'ouvrira. Choisissez la lettre du _lecteur_ désirée. Entrez l'adresse du dossier netstorage. Vous avez ici deux choix:
+### 3. Une fenêtre s'ouvrira. Choisissez la lettre du _Lecteur_ désirée. Entrez l'adresse du _Dossier_ netstorage. Vous avez ici deux choix:
 > 1. `https://s1.bdeb.qc.ca/oneNet/NetStorage`
 > 2. `https://s2.bdeb.qc.ca/oneNet/NetStorage`
 ### Cliquez ensuite sur le bouton _Terminer_.
