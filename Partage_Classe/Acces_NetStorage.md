@@ -12,5 +12,5 @@
 ### Cliquez ensuite sur le bouton **Terminer**.
 ![](https://github.com/sbeau/AEC-IA/blob/master/Partage_Classe/images/fenetre_ConnecterUnLecteurReseau-Adresse.png)
 
-### Finalement, entrez nom et mot de passe Novell.
+### Finalement, entrez votre nom et mot de passe Novell.
 ![](https://github.com/sbeau/AEC-IA/blob/master/Partage_Classe/images/fenetre_ConnecterUnLecteurReseau-mdp.png)
