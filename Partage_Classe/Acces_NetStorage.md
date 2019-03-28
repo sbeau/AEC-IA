@@ -1,7 +1,7 @@
 # Accéder à votre repertoire Netstorage du collège comme un disque réseau
 
 #### Allez tout d'abord sur windows explorer et cliquez sur '**Ce PC**'.
-![cliquez sur Ce PC](/images/fenetre_CePC.png)
+![cliquez sur Ce PC](images/fenetre_CePC.png)
 
 #### Cliquez sur le menu **Ordinateur** et ensuite sur le bouton **Connecter un lecteur réseau**.
 ![connecter un lecteur reseau](/images/fenetre_ConnecterUnLecteurReseau.png)
